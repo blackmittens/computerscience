@@ -1,0 +1,14 @@
+class stack
+    public api
+        push
+        pop
+        clean
+        ==
+        =
+        copy
+        move
+        sort
+        size()
+    private
+        
+    

@@ -1,0 +1,2 @@
+/home/blackdragon/Dropbox/CodeBase/computerscience/thread_safe/stack/build/CMakeFiles/rebuild_cache.dir
+/home/blackdragon/Dropbox/CodeBase/computerscience/thread_safe/stack/build/CMakeFiles/edit_cache.dir
